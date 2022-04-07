@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "es7"],
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "module": "node12",
+    "target": "es6",
+    "allowJs": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  }
+}
